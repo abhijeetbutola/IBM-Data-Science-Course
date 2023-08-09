@@ -1,7 +1,5 @@
 # Applied Data Science Capstone
-<p align="center">
-  <img src="Images/TitlePage.png" width="1200">
-</p>
+
 
 ## 📄 Summary
 This capstone project will ultimately **predict if the Space X Falcon 9 first stage will land successfully**. 
